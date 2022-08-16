@@ -1,4 +1,4 @@
-I've been interested in Information Technology and Cyber Security going on 2 years.
+I've been interested in Information Technology and Cyber Security going on 2 years. I'm now improving my skills in enterprise threat detection and script deployment.
 - Hi👋My name is Stephan
 - 👀 I’m interested in Security Operations
 - 🧠 I’m currently learning Security Based Python Scripts, Splunk, and Threat Detection.
